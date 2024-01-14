@@ -1,2 +1,2 @@
-config SHIELD_L1_GAMEPAD
+config SHIELD_L1GAMEPAD
     def_bool $(shields_list_contains,l1_gamepad)
